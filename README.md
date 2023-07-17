@@ -1,6 +1,6 @@
 # Computer Vision Notes
 
-some notes and implementation in computer vision
+some notes and implementations in computer vision
 
 ## Parts
 - TensorFlow implementations
